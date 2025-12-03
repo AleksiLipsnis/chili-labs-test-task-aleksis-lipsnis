@@ -1,1 +1,1 @@
-# chili-labs-test-task-aleksis-lipsnis
+Test task for frontend position.
