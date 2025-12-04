@@ -8,3 +8,6 @@
 - **Styling:** TailwindCSS
 - **Library:** React
 - **Framework:** Next.js
+
+The optional task related to unit tests using @testing-library/react was not implemented in this project.
+All other tasks were completed.
